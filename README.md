@@ -1,6 +1,9 @@
 ### Olá!! Eu sou o João Victor Ventura
+- Após um curto período na equipe de DevOps da PGE-RJ, pedi para sair e embarquei em uma nova jornada em outro estágio na CAM Tecnologia, atuando como estagiário de desenvolvimento back-end. Nesta posição, utilizei Python profissionalmente pela primeira vez, focando bastante em testes unitários com o pytest. Fui responsável por criar todos os testes dos CRUDs da primeira parte de um projeto chamado Desconsub, uma aplicação para plataformas de submarinos.
+Além disso, trabalhei com alguns frameworks, como Django, onde resolvi pequenas demandas de bugs, e FastAPI, no qual me aprofundei significativamente.
+Para o futuro, estou constantemente em busca de uma vaga de Júnior. Isso me permitirá deixar meu emprego como garçom e focar exclusivamente na programação, tendo mais tempo para estudar e me estabilizar na área.
 
-- 🔭 Atualmente sou estagiário na PGE-RJ e faço parte da equipe de TI e mais recentemente adentrei na equipe de DevOps trabalhando com monitoramento e observabilidade utilizando algumas ferramentas como Zabbix, Jenkins e Grafana e também vendo um pouco de Linux.
+- 🔭 Fui estagiário na PGE-RJ e fiz parte da equipe de TI e mais recentemente estava na equipe de DevOps trabalhando com monitoramento e observabilidade utilizando algumas ferramentas como Zabbix, Jenkins e Grafana e também vendo um pouco de Linux.
 - 👓 Já fiz parte também da equipe de sistemas e estando lá trabalhei também com SQL Server, HTML, CSS, JavaScript e PHP utilizando o framework CakePHP. Vi também ferramentas como Git, Selenium para testes e metodologia de trabalho Scrum.
 - 🌱 Atualmente tento estudar tudo que mais gostei nesse pouco mais de 1 ano em que estou na área de tecnologia como: Python, Php, Linux, Git, Banco de dados, Scrum.
 <h3 align="center">Meus contatos:</h3>
